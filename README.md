@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi, I'm Ravi. I do data stuff</h1>
+## Hello, Folks!
+My name is Ravi, I'm a data engineer/scientist. Proficient in Python, Java, Scala, and Javascript.
+* Framework: Django, Flask, ReactJS
+* Technologies: Spark, Kafka, Hadoop
+
